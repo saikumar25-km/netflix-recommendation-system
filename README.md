@@ -212,8 +212,9 @@ Netflix-Recommendation-Analytics
 ## Executive Overview
 
 #markdown
-![Project Screenshot21]((https://github.com/saikumar25-km/netflix-recommendation-system/blob/main/Screenshot%202026-06-20%20115450.png?raw=true))
+# 📸 Dashboard Preview
 
+![Netflix Dashboard](https://github.com/saikumar25-km/netflix-recommendation-system/blob/main/Screenshot%202026-06-20%20115450.png?raw=true)
 
 
 
