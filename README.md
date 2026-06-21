@@ -236,8 +236,8 @@ Netflix-Recommendation-Analytics
 
 ## User Behavior Analysis
 
-```markdown
-![Recommendation Analysis](https://github.com/saikumar25-km/netflix-recommendation-system/blob/main/Screenshot%202026-06-20%20115631.png?raw=true)```
+
+![Recommendation Analysis](https://github.com/saikumar25-km/netflix-recommendation-system/blob/main/Screenshot%202026-06-20%20115631.png?raw=true)
 
 
 
