@@ -208,7 +208,7 @@ Netflix-Recommendation-Analytics
 
 ## Executive Overview
 
-```markdown
+markdown
 ![Executive Overview](Images/Screenshot%202026-06-20%20115509.png)
 
 
