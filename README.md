@@ -204,8 +204,7 @@ Netflix-Recommendation-Analytics
 ## Executive Overview
 
 ```markdown
-![Executive Overview](Images/executive_overview.png)
-```
+<img src="Screenshot%202026-06-20%20115509.png" width="400">``
 
 ## User Behavior Analysis
 
