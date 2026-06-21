@@ -209,7 +209,7 @@ Netflix-Recommendation-Analytics
 ## Executive Overview
 
 #markdown
-![Executive Overview](Images/Screenshot%202026-06-20%20115509.png)
+![Project Screenshot2](https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(4).png?raw=true)
 
 
 
