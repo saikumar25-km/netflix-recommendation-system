@@ -204,12 +204,15 @@ Netflix-Recommendation-Analytics
 
 
 
+
+
+
 # 📷 Power BI Dashboard
 
 ## Executive Overview
 
 #markdown
-![Project Screenshot2]([https://github.com/saikumar25-km/amazon-sentiment-analysis/blob/main/Screenshot%20(4).png?raw=true](https://github.com/saikumar25-km/netflix-recommendation-system/blob/main/Screenshot%202026-06-20%20115450.png?raw=true))
+![Project Screenshot2]([(https://github.com/saikumar25-km/netflix-recommendation-system/blob/main/Screenshot%202026-06-20%20115450.png?raw=true])
 
 
 
