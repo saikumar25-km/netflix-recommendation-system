@@ -230,11 +230,16 @@ Netflix-Recommendation-Analytics
 ![User Behavior](Images/user_behavior.png)
 ```
 
-## Recommendation Analysis
 
-```markdown
-![Recommendation Analysis](Images/recommendation_analysis.png)
-```
+## Recommendation Analysis
+![Executive Overview](https://github.com/saikumar25-km/netflix-recommendation-system/blob/main/Screenshot%202026-06-20%20115602.png?raw=true)
+
+
+
+
+
+
+
 
 ## Retention Analysis
 
